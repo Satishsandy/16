@@ -1,6 +1,8 @@
 body{
-    padding: 40px;
-    margin: 20px;
+    padding: 18em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin: 5em;
 }
 .img{
     height: 100px;
@@ -14,7 +16,7 @@ p{
 }
 .tab{
    margin-left: -5px;
-    margin-right: -5px;
+    margin-right: 5px;
    
       
     
@@ -22,7 +24,8 @@ p{
 .tb1{
   width: 50%;
  float:left;
-    padding: 5px;}
+    padding: 5px;
+margin: }
 .tab::after{
     clear: both;
     display: table;
